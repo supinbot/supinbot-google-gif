@@ -1,0 +1,19 @@
+{
+  "name": "supinbot-google-gif",
+  "version": "0.0.1",
+  "description": "A module for SUPINBOT to let it search look for gif on google image.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Starfox64/supinbot-google-gif.git"
+  },
+  "author": "Starfox64 <louisdijon21@yahoo.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/Starfox64/supinbot-google-gif/issues"
+  },
+  "homepage": "https://gitlab.com/Starfox64/supinbot-google-gif#README",
+  "dependencies": {
+    "googleapis": "^2.1.7"
+  }
+}
