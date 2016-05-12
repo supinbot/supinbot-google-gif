@@ -1,6 +1,6 @@
 {
   "name": "supinbot-google-gif",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A module for SUPINBOT to let it search look for gif on google image.",
   "main": "index.js",
   "repository": {
