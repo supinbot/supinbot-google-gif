@@ -5,14 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/Starfox64/supinbot-google-gif.git"
+    "url": "git+https://github.com/supinbot/supinbot-google-gif.git"
   },
   "author": "Starfox64 <louisdijon21@yahoo.fr>",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/Starfox64/supinbot-google-gif/issues"
+    "url": "https://github.com/supinbot/supinbot-google-gif/issues"
   },
-  "homepage": "https://gitlab.com/Starfox64/supinbot-google-gif#README",
+  "homepage": "https://github.com/supinbot/supinbot-google-gif#README",
   "dependencies": {
     "googleapis": "^2.1.7"
   }
